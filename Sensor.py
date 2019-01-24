@@ -12,5 +12,4 @@ while True:
 #cel = data/22.75
         print(cel)
         time.sleep(5)
-print(out)
 
